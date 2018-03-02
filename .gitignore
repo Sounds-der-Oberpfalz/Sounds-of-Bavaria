@@ -1,0 +1,9 @@
+# build
+app/build
+build
+.gradle
+
+# project
+.idea
+local.properties
+import-summary.txt

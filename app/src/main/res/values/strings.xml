@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SoundsOfBavaria</string>
+    <string name="next">Nächstes Lied</string>
+    <string name="back">Vorheriges Lied</string>
+    <string name="play">Abspielen</string>
+    <string name="replay">Erneut Spielen</string>
+    <string name="stop">Stop</string>
+    <string name="lyrics">Liedtext</string>
+    <string name="desc">Beschreibung</string>
+    <string name="cover">Cover</string>
+    <string name="bside">Rückseite</string>
+    <string name="confirm">OK</string>
+    <string name="restart">Neu starten</string>
+    <string name="close">Schließen</string>
+    <string name="imp">Impressum</string>
+    <string name="impText">Appentwicklung:\nStefan Covaci\nSimon Fürnstein\n\nBearbeitung Inhalte:\nVerena Corsetti\nYannick Twelkmeyer\nCaroline Riedl\nLukas Schmidtner\n\n Musik und Artwork © Interpreten</string>
+	<string name="noLyrics">Kein Liedtext verfügbar</string>
+	<string name="missing">
+	    Fehlende Daten: Bitte stellen Sie sicher das der Ordner \"Sounds Of Bavaria\" 
+	    im internen Speicher des Gerätes bzw. der SD Karte vorhanden ist und für jedes Stück 3 Dateien vorliegen\n
+	    1) eine Sounddatei im .mp3 Format\n
+	    2) ein Bild im .jpg Format\n
+	    3) eine Beschreibung im .txt Format\n
+	    und starten Sie die App neu
+	    </string>
+</resources>
+

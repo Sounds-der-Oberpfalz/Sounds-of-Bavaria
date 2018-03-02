@@ -1,0 +1,5 @@
+# Sounds of Bavaria
+
+Dieses Projekt ist Teil der Ausstellung "Wie klingt die Oberpfalz?", die vom [Lehrstuhl für Vergleichende Kulturwissenschaft](http://www.uni-regensburg.de/sprache-literatur-kultur/vergleichende-kulturwissenschaft/startseite/index.html) der [Unversität Regensburg](http://www.uni-regensburg.de/) konzipiert wurde. Die Anwendung wurde im Sommersemester 2013 von Stefan Covaci und Simon Fürnstein im Rahmen des Android-Kurses des [Lehrstuhls für Medieninformatik](http://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/) an der Universität Regensburg  entwickelt. 
+
+Die Anwendung „Sounds of Bavaria“ ist im Laufe einer Projekt-Arbeit der Medieninformatik-Studenten der Universität Regensburg in Zusammenarbeit mit Kulturwissenschaft-Studenten entstanden. Die Applikation soll auf einem Tablet laufen und soll die Wiedergabe von Liedern bayerischer Bands aus der Region ermöglichen. Vom Design her, sollte die Applikation schlicht und benutzerfreundlich konzipiert werden, um ein breites Publikum ansprechen zu können.
