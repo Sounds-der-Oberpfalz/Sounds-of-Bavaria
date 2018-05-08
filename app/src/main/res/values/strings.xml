@@ -2,28 +2,28 @@
 <resources>
 
     <string name="app_name">SoundsOfBavaria</string>
-    <string name="next">Nächstes Lied</string>
-    <string name="back">Vorheriges Lied</string>
-    <string name="play">Abspielen</string>
-    <string name="replay">Erneut Spielen</string>
-    <string name="stop">Stop</string>
-    <string name="lyrics">Liedtext</string>
-    <string name="desc">Beschreibung</string>
-    <string name="cover">Cover</string>
-    <string name="bside">Rückseite</string>
-    <string name="confirm">OK</string>
-    <string name="restart">Neu starten</string>
-    <string name="close">Schließen</string>
-    <string name="imp">Impressum</string>
-    <string name="impText">Appentwicklung:\nStefan Covaci\nSimon Fürnstein\n\nBearbeitung Inhalte:\nVerena Corsetti\nYannick Twelkmeyer\nCaroline Riedl\nLukas Schmidtner\n\n Musik und Artwork © Interpreten</string>
-	<string name="noLyrics">Kein Liedtext verfügbar</string>
-	<string name="missing">
-	    Fehlende Daten: Bitte stellen Sie sicher das der Ordner \"Sounds Of Bavaria\" 
-	    im internen Speicher des Gerätes bzw. der SD Karte vorhanden ist und für jedes Stück 3 Dateien vorliegen\n
-	    1) eine Sounddatei im .mp3 Format\n
-	    2) ein Bild im .jpg Format\n
-	    3) eine Beschreibung im .txt Format\n
-	    und starten Sie die App neu
-	    </string>
+       <string name="next">další píseň</string>
+       <string name="back">předchozí píseň</string>
+       <string name="play">přehrát</string>
+       <string name="replay">přehrát znovu</string>
+       <string name="stop">stop</string>
+       <string name="lyrics">text písně</string>
+       <string name="desc">popis</string>
+       <string name="cover">obal CD</string>
+       <string name="bside">zadní strana</string>
+       <string name="confirm">OK</string>
+       <string name="restart">znovu start</string>
+       <string name="close">ukončit</string>
+       <string name="imp">impressum</string>
+       <string name="impText">Vývoj aplikace:\nStefan Covaci\nSimon Fürnstein\n\nzpracování obsahy:\nVerena Corsetti\nYannick Twelkmeyer\nCaroline Riedl\nLukas Schmidtner\n\n Hudba a umělecká práce© interpreti</string>
+    <string name="noLyrics">žádný text k dispozici</string>
+    <string name="missing">
+    chybějící údaje: Ujistěte se, že  se soubor \"Sounds Of Bavaria\" 
+   nachází v interní paměti resp. na SD kartě a že má každý titul tři soubory\n
+    1) jeden zvukový soubor ve formátu .mp3\n
+    2) foto ve formátu .jpg\n
+    3) popis ve formátu .txt\n
+   a nastartujte aplikaci znovu
+    </string>
 </resources>
 

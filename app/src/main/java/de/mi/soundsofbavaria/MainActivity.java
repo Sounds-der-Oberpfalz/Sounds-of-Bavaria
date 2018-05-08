@@ -2,9 +2,11 @@ package de.mi.soundsofbavaria;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.FilenameFilter;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -445,12 +447,14 @@ public class MainActivity extends Activity implements
 			return "XXX";
 	}
 	//read the textfile
+	// TODO: Check if encoding can be fixed here
 	public String getText() {
 		File file = new File(MEDIA_PATH + texts.get(currentPosition));
 
 		StringBuilder text = new StringBuilder();
 
 		try {
+			InputStreamReader in = new InputStreamReader(new FileInputStream(file), "UTF-8");
 			BufferedReader br = new BufferedReader(new FileReader(file));
 			String line;
 
